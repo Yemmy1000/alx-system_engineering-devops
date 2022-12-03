@@ -1,1 +1,2 @@
-0 - Create a script that changes your user ID to betty. 
+#!/bin/bash
+su betty
